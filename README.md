@@ -2,7 +2,7 @@
 
 Translation errors found by our RTI approach in [Google Translate](https://translate.google.com/#view=home&op=translate&sl=en&tl=zh-CN) and [Bing Microsoft Translator](https://www.bing.com/translator). 
 
-We introduce a novel and widely-applicable concept: RTI (referentially transparent inputs). An RTI is a piece of text in source language that should have invariant translation in target language even in different contexts. RTI is implemented by us as a tool called <em>Purity</em>. <em>Purity</em> has successfully detected 5 kinds of translation errors: under-translation, over-translation, word/phrase mistranslation, incorrect modification, and unclear logic. We will keep updating the erroneous translations uncovered by RTI to this repo.
+We introduce a novel and widely-applicable concept: RTI (referentially transparent inputs). An RTI is a piece of text in source language that should have similar translation in target language even in different contexts. RTI is implemented by us as a tool called <em>Purity</em>. <em>Purity</em> has successfully detected 5 kinds of translation errors: under-translation, over-translation, word/phrase mistranslation, incorrect modification, and unclear logic. We will keep updating the erroneous translations uncovered by RTI to this repo.
 
 
 ### Template in the translation error examples: :telescope: 
